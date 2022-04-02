@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Han-Tony
 - 👀 I’m interested in Web Design, UI/UX, Gaming, Software Development
-- 🌱 I’m currently learning Web Design, UI/UX
+- 🌱 I’m currently learning front end development, UI/UX
 - 💞️ I’m looking to collaborate on junior developer projects
 - 📫 How to reach me oadaniyan25@gmail.com
 
